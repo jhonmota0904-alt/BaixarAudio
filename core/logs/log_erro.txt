@@ -1,0 +1,377 @@
+10/11/2026 - 11:00:20 ERRO: Arquivo 'core\historico.csv' não encontrado!
+10/11/2026 - 11:00:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 11:00:52 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 18:47:44 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 18:47:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 18:47:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 18:47:54 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 18:50:25 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 18:50:26 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 18:50:27 ERRO: Arquivo 'core\fila.csv' não encontrado!
+10/11/2026 - 18:58:25 ERRO: Download interrompido -> [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\a stormy night ♫.webm' -> 'C:\\Download do youtube\\a stormy night ♫.webm'
+10/11/2026 - 18:58:25 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\a stormy night ♫.webm' -> 'C:\\Download do youtube\\a stormy night ♫.webm'
+11/11/2026 - 07:35:38 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:35:41 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:43:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:52:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:52:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:52:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:53:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:53:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:53:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:53:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:55:38 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:59:26 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:59:28 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:59:29 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:59:29 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:59:55 ERRO: Download interrompido -> [0;31mERROR:[0m Unable to rename file: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\a stormy night ♫.f616.mp4.part' -> 'C:\\Download do youtube\\a stormy night ♫.f616.mp4'. Giving up after 3 retries
+11/11/2026 - 07:59:55 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Unable to rename file: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\a stormy night ♫.f616.mp4.part' -> 'C:\\Download do youtube\\a stormy night ♫.f616.mp4'. Giving up after 3 retries
+11/11/2026 - 07:59:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:59:57 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 07:59:57 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 07:59:57 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 07:59:57 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:00:46 ERRO: Download interrompido -> [0;31mERROR:[0m Unable to rename file: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\First Light  ： Makiko Hirohashi  〜心を整える静かな音楽〜.f616.mp4.part' -> 'C:\\Download do youtube\\First Light  ： Makiko Hirohashi  〜心を整える静かな音楽〜.f616.mp4'. Giving up after 3 retries
+11/11/2026 - 08:00:46 ERRO: Falha no download de https://www.youtube.com/watch?v=rBtdnlcKEmo&list=RDMJedvm2TE8o&index=6 -> [0;31mERROR:[0m Unable to rename file: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\First Light  ： Makiko Hirohashi  〜心を整える静かな音楽〜.f616.mp4.part' -> 'C:\\Download do youtube\\First Light  ： Makiko Hirohashi  〜心を整える静かな音楽〜.f616.mp4'. Giving up after 3 retries
+11/11/2026 - 08:00:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:00:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:00:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:25 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:28 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:28 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:31 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:31 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:31 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:31 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:31 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:31 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:31 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:37 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:38 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:38 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:39 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:39 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:40 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:40 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:41 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:42 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:43 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:43 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:43 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:43 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:43 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:43 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:43 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:43 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:43 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:43 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:43 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:44 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:45 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:45 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:45 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:45 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:45 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:49 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:49 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:49 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:49 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:49 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:49 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:56 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:56 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:56 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:56 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:56 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:56 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:07:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:59 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:07:59 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:08:00 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:08:03 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:03 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:03 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:03 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:04 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:04 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:09 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:09 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:10 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:10 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:10 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:10 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:17 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:17 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:18 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:18 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:19 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:19 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:24 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:24 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:24 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:08:24 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:09:37 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 08:09:43 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:09:43 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:09:43 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 08:09:43 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:34:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:34:52 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:34:52 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:34:53 ERRO: Falha no download de https://www.youtube.com/watch?v=k0VppQxHULA&list=RDMJedvm2TE8o&index=4 -> Tipo inválido: _
+11/11/2026 - 09:34:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:34:56 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:34:56 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:34:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:34:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:34:56 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:34:56 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:34:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:37:11 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:37:13 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:37:13 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:37:14 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:37:16 ERRO: Falha no download de https://www.youtube.com/watch?v=k0VppQxHULA&list=RDMJedvm2TE8o&index=4 -> Tipo inválido: _
+11/11/2026 - 09:37:16 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:37:19 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:37:19 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:37:19 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:37:20 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:37:21 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:37:21 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:37:21 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:40:16 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:40:19 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:40:19 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:40:22 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:40:22 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:40:22 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:40:23 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:40:23 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:40:23 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:40:23 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:42:44 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:42:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:42:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:42:50 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:42:50 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:42:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:42:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:42:51 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:42:51 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:42:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:52 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:45:52 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:45:52 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:52 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:53 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:45:53 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:45:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:54 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:45:54 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:45:54 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:45:58 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:45:58 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:45:58 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:00 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:00 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:00 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:00 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:00 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:00 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:00 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:02 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:02 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:04 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:04 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:04 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:06 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:08 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:08 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:08 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:11 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:12 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:12 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:12 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:12 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:12 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:12 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:15 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:16 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:22 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:22 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:22 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:23 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:23 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:23 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:23 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:23 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:23 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:25 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 09:46:32 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:32 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Postprocessing: Error opening input files: Invalid data found when processing input
+11/11/2026 - 09:46:32 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:17:12 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:17:14 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:17:17 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:17:17 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:17:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:17:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:17:50 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> Tipo inválido: playlist
+11/11/2026 - 10:17:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:17:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:18:26 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:18:29 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:18:29 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> Tipo inválido: playlist
+11/11/2026 - 10:18:29 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:18:29 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:18:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:18:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:18:48 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> Tipo inválido: playlist
+11/11/2026 - 10:18:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:18:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:19:25 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:19:27 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:19:27 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> Tipo inválido: playlist
+11/11/2026 - 10:19:27 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:19:27 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:20:34 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:20:37 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:20:37 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> Tipo inválido: playlist
+11/11/2026 - 10:20:37 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:20:37 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:21:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:21:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:21:53 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> Tipo inválido: playlist
+11/11/2026 - 10:21:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:21:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:22:44 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:24:59 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:26:20 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:26:23 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:26:26 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:26:26 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:27:44 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:27:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:27:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:27:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:28:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:28:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:28:54 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:28:54 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:41 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:44 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:44 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:44 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:46 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:47 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:48 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:49 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:51 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:54 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:56 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:58 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:45:58 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:46:00 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 10:46:00 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 15:08:21 ERRO: Download interrompido -> [0;31mERROR:[0m Unable to rename file: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\a stormy night ♫.webm.part' -> 'C:\\Download do youtube\\a stormy night ♫.webm'. Giving up after 3 retries
+11/11/2026 - 15:08:21 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o -> [0;31mERROR:[0m Unable to rename file: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\a stormy night ♫.webm.part' -> 'C:\\Download do youtube\\a stormy night ♫.webm'. Giving up after 3 retries
+11/11/2026 - 15:09:51 ERRO: Download interrompido -> [0;31mERROR:[0m Unable to rename file: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\a stormy night ♫.webm.part' -> 'C:\\Download do youtube\\a stormy night ♫.webm'. Giving up after 3 retries
+11/11/2026 - 15:09:51 ERRO: Falha no download de https://www.youtube.com/watch?v=MJedvm2TE8o&list=RDMJedvm2TE8o&start_radio=1 -> [0;31mERROR:[0m Unable to rename file: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Download do youtube\\a stormy night ♫.webm.part' -> 'C:\\Download do youtube\\a stormy night ♫.webm'. Giving up after 3 retries
+11/11/2026 - 16:01:21 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:21 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:21 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:28 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:28 ERRO: Falha no download de https://www.youtube.com/shorts/fi5v83PHoPU -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:28 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:28 ERRO: Falha no download de https://www.youtube.com/shorts/fi5v83PHoPU -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:28 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:29 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:29 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:29 ERRO: Falha no download de https://www.youtube.com/shorts/fi5v83PHoPU -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:29 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:31 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:32 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:33 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:01:40 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:40 ERRO: Falha no download de https://www.youtube.com/shorts/fi5v83PHoPU -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:41 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:41 ERRO: Falha no download de https://www.youtube.com/shorts/fi5v83PHoPU -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:45 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:45 ERRO: Falha no download de https://www.youtube.com/shorts/fi5v83PHoPU -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:59 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:59 ERRO: Falha no download de https://www.youtube.com/shorts/fi5v83PHoPU -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:59 ERRO: Download interrompido -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:01:59 ERRO: Falha no download de https://www.youtube.com/shorts/fi5v83PHoPU -> [0;31mERROR:[0m Postprocessing: WARNING: unable to obtain file audio codec with ffprobe
+11/11/2026 - 16:06:22 ERRO: Arquivo 'core\historico.csv' não encontrado!
+11/11/2026 - 16:06:23 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:06:25 ERRO: Arquivo 'core\historico.csv' não encontrado!
+11/11/2026 - 16:06:26 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:07:09 ERRO: Arquivo 'core\historico.csv' não encontrado!
+11/11/2026 - 16:07:39 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:07:39 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:07:39 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:07:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:07:53 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:07:55 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:07:57 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:17:50 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:18:04 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 16:18:04 ERRO: Arquivo 'core\fila.csv' não encontrado!
+11/11/2026 - 18:39:46 ERRO: Arquivo 'core\links_salvos.csv' não encontrado!
+11/11/2026 - 18:41:50 ERRO: Arquivo 'core\links_salvos.csv' não encontrado!
+11/11/2026 - 18:42:36 ERRO: Arquivo 'core\links_salvos.csv' não encontrado!
+11/11/2026 - 18:42:41 ERRO: Arquivo 'core\links_salvos.csv' não encontrado!
+11/11/2026 - 18:42:48 ERRO: Arquivo 'core\links_salvos.csv' não encontrado!
+11/11/2026 - 18:43:01 ERRO: falha ao extrair informações de asdddasd -> [0;31mERROR:[0m [generic] 'asdddasd' is not a valid URL
+11/11/2026 - 18:43:01 ERRO: Não foi possível carregar o vídeo -> yt-dlp could not open video. Please ensure the URL is a valid Youtube video.
+11/11/2026 - 19:06:44 ERRO: Arquivo 'core\links_salvos.csv' não encontrado!

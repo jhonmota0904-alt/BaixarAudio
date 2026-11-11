@@ -1,0 +1,530 @@
+10/11/2026 - 11:00:06 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 11:00:06 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 11:00:20 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 11:00:20 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 11:00:24 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+10/11/2026 - 11:00:25 EVENTO: Arquivo 'core\fila.csv' removido.
+10/11/2026 - 11:00:29 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 11:00:30 EVENTO: Iniciando download -> Moon
+10/11/2026 - 11:00:38 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 11:00:38 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 11:00:39 EVENTO: Download concluído -> Moon
+10/11/2026 - 11:00:39 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:35:33 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 17:35:33 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 17:35:58 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 17:35:58 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 17:36:12 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+10/11/2026 - 17:36:12 EVENTO: Arquivo 'core\fila.csv' removido.
+10/11/2026 - 17:36:16 EVENTO: Iniciando download -> 𝐂𝐥𝐚𝐢𝐫 𝐝𝐞 𝐋𝐮𝐧𝐞 𝐒𝐥𝐨𝐰𝐞𝐝 𝐓𝐨 𝐏𝐞𝐫𝐟𝐞𝐜𝐭𝐢𝐨𝐧
+10/11/2026 - 17:36:16 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 17:36:23 EVENTO: Download concluído -> 𝐂𝐥𝐚𝐢𝐫 𝐝𝐞 𝐋𝐮𝐧𝐞 𝐒𝐥𝐨𝐰𝐞𝐝 𝐓𝐨 𝐏𝐞𝐫𝐟𝐞𝐜𝐭𝐢𝐨𝐧
+10/11/2026 - 17:36:23 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:36:25 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 17:36:25 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:40:59 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 17:40:59 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 17:41:03 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+10/11/2026 - 17:41:03 EVENTO: Arquivo 'core\fila.csv' removido.
+10/11/2026 - 17:41:48 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 17:41:48 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 17:41:49 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+10/11/2026 - 17:41:49 EVENTO: Arquivo 'core\fila.csv' removido.
+10/11/2026 - 17:41:56 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 17:41:59 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 17:41:59 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:01 EVENTO: Iniciando download -> comfy vibes ♫
+10/11/2026 - 17:42:04 EVENTO: Download concluído -> comfy vibes ♫
+10/11/2026 - 17:42:04 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:07 EVENTO: Iniciando download -> Dreaming
+10/11/2026 - 17:42:10 EVENTO: Download concluído -> Dreaming
+10/11/2026 - 17:42:10 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:12 EVENTO: Iniciando download -> faces
+10/11/2026 - 17:42:15 EVENTO: Download concluído -> faces
+10/11/2026 - 17:42:15 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:17 EVENTO: Iniciando download -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+10/11/2026 - 17:42:23 EVENTO: Download concluído -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+10/11/2026 - 17:42:23 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:25 EVENTO: Iniciando download -> Flowers (feat. Nori)
+10/11/2026 - 17:42:28 EVENTO: Download concluído -> Flowers (feat. Nori)
+10/11/2026 - 17:42:28 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:31 EVENTO: Iniciando download -> sunshine & butterflies ♫
+10/11/2026 - 17:42:34 EVENTO: Download concluído -> sunshine & butterflies ♫
+10/11/2026 - 17:42:34 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:37 EVENTO: Iniciando download -> dreamy nightmares ♫
+10/11/2026 - 17:42:40 EVENTO: Download concluído -> dreamy nightmares ♫
+10/11/2026 - 17:42:40 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:42 EVENTO: Iniciando download -> of frogs & lilypads (solo piano/study music) | seycara
+10/11/2026 - 17:42:49 EVENTO: Download concluído -> of frogs & lilypads (solo piano/study music) | seycara
+10/11/2026 - 17:42:49 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:42:51 EVENTO: Iniciando download -> Velocities
+10/11/2026 - 17:42:54 EVENTO: Download concluído -> Velocities
+10/11/2026 - 17:42:54 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:46:48 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 17:46:48 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 17:47:02 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+10/11/2026 - 17:47:02 EVENTO: Arquivo 'core\fila.csv' removido.
+10/11/2026 - 17:47:08 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 17:47:14 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 17:47:14 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:47:17 EVENTO: Iniciando download -> comfy vibes ♫
+10/11/2026 - 17:47:23 EVENTO: Download concluído -> comfy vibes ♫
+10/11/2026 - 17:47:23 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:47:26 EVENTO: Iniciando download -> dreamy nightmares ♫
+10/11/2026 - 17:47:32 EVENTO: Download concluído -> dreamy nightmares ♫
+10/11/2026 - 17:47:32 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:47:35 EVENTO: Iniciando download -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+10/11/2026 - 17:47:48 EVENTO: Download concluído -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+10/11/2026 - 17:47:48 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:47:51 EVENTO: Iniciando download -> Moon
+10/11/2026 - 17:47:58 EVENTO: Download concluído -> Moon
+10/11/2026 - 17:47:58 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:48:01 EVENTO: Iniciando download -> sunshine & butterflies ♫
+10/11/2026 - 17:48:07 EVENTO: Download concluído -> sunshine & butterflies ♫
+10/11/2026 - 17:48:07 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:48:10 EVENTO: Iniciando download -> of frogs & lilypads (solo piano/study music) | seycara
+10/11/2026 - 17:48:20 EVENTO: Download concluído -> of frogs & lilypads (solo piano/study music) | seycara
+10/11/2026 - 17:48:20 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:48:23 EVENTO: Iniciando download -> these days it's hard to find the words ♫
+10/11/2026 - 17:48:29 EVENTO: Download concluído -> these days it's hard to find the words ♫
+10/11/2026 - 17:48:29 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:48:32 EVENTO: Iniciando download -> Fragments
+10/11/2026 - 17:48:45 EVENTO: Download concluído -> Fragments
+10/11/2026 - 17:48:45 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 17:48:47 EVENTO: Iniciando download -> Flowers (feat. Nori)
+10/11/2026 - 17:48:55 EVENTO: Download concluído -> Flowers (feat. Nori)
+10/11/2026 - 17:48:55 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:57:54 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 18:57:54 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 18:58:01 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 18:58:01 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 18:58:06 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+10/11/2026 - 18:58:06 EVENTO: Nova linha escrit em 'core\fila.csv'
+10/11/2026 - 18:58:08 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+10/11/2026 - 18:58:08 EVENTO: Arquivo 'core\fila.csv' removido.
+10/11/2026 - 18:58:14 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 18:58:14 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 18:58:16 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 18:58:19 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 18:58:19 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:58:25 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 18:58:25 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 18:58:25 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:58:32 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 18:58:34 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 18:58:34 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:58:34 EVENTO: Iniciando download -> a stormy night ♫
+10/11/2026 - 18:58:35 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 18:58:35 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:58:42 EVENTO: Download concluído -> a stormy night ♫
+10/11/2026 - 18:58:42 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:58:45 EVENTO: Iniciando download -> comfy vibes ♫
+10/11/2026 - 18:58:51 EVENTO: Download concluído -> comfy vibes ♫
+10/11/2026 - 18:58:51 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:58:53 EVENTO: Iniciando download -> dreamy nightmares ♫
+10/11/2026 - 18:59:00 EVENTO: Download concluído -> dreamy nightmares ♫
+10/11/2026 - 18:59:00 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:59:03 EVENTO: Iniciando download -> of frogs & lilypads (solo piano/study music) | seycara
+10/11/2026 - 18:59:11 EVENTO: Download concluído -> of frogs & lilypads (solo piano/study music) | seycara
+10/11/2026 - 18:59:11 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:59:14 EVENTO: Iniciando download -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+10/11/2026 - 18:59:27 EVENTO: Download concluído -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+10/11/2026 - 18:59:27 EVENTO: Nova linha escrit em 'core\historico.csv'
+10/11/2026 - 18:59:29 EVENTO: Iniciando download -> Moon
+11/11/2026 - 07:44:33 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 07:44:33 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 07:44:55 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 07:44:55 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 07:52:53 EVENTO: Arquivo 'core\fila.csv' removido.
+11/11/2026 - 07:52:58 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 07:52:58 EVENTO: Iniciando download -> First Light  : Makiko Hirohashi  〜心を整える静かな音楽〜
+11/11/2026 - 07:52:58 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 07:53:58 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 07:53:58 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 07:53:59 EVENTO: Iniciando download -> First Light  : Makiko Hirohashi  〜心を整える静かな音楽〜
+11/11/2026 - 07:59:30 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 07:59:31 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 07:59:31 EVENTO: Iniciando download -> First Light  : Makiko Hirohashi  〜心を整える静かな音楽〜
+11/11/2026 - 07:59:59 EVENTO: Iniciando download -> First Light  : Makiko Hirohashi  〜心を整える静かな音楽〜
+11/11/2026 - 08:00:49 EVENTO: Download concluído -> First Light  : Makiko Hirohashi  〜心を整える静かな音楽〜
+11/11/2026 - 08:00:49 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 08:07:30 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:30 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:41 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:41 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:42 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:47 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:47 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:47 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:53 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:53 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:07:54 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:01 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:02 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:02 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:08 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:08 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:09 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:15 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:16 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:18 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:23 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:08:23 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:09:42 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:09:42 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 08:10:26 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 08:10:26 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 09:34:49 EVENTO: Arquivo 'core\fila.csv' removido.
+11/11/2026 - 09:34:54 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:34:54 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:37:15 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:37:16 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:40:21 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:40:21 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:42:49 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:42:49 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:45:51 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:45:52 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:45:53 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:45:57 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:45:59 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:45:59 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:46:02 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:46:04 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:46:05 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:46:09 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:46:15 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:46:19 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:46:19 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 09:46:29 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:17:17 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:17:17 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:17:17 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:26:26 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:26:26 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:26:26 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:27:48 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:27:48 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:27:48 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:28:54 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:28:54 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:28:54 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:46 EVENTO: Iniciando download -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+11/11/2026 - 10:45:46 EVENTO: Download concluído -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+11/11/2026 - 10:45:46 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:47 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:45:47 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:45:47 EVENTO: Iniciando download -> comfy vibes ♫
+11/11/2026 - 10:45:47 EVENTO: Download concluído -> comfy vibes ♫
+11/11/2026 - 10:45:47 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:47 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:51 EVENTO: Iniciando download -> Moon
+11/11/2026 - 10:45:51 EVENTO: Download concluído -> Moon
+11/11/2026 - 10:45:51 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:51 EVENTO: Iniciando download -> Azalea Town
+11/11/2026 - 10:45:51 EVENTO: Download concluído -> Azalea Town
+11/11/2026 - 10:45:51 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:51 EVENTO: Iniciando download -> faces
+11/11/2026 - 10:45:51 EVENTO: Download concluído -> faces
+11/11/2026 - 10:45:51 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:55 EVENTO: Iniciando download -> Dreamland
+11/11/2026 - 10:45:55 EVENTO: Download concluído -> Dreamland
+11/11/2026 - 10:45:55 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:56 EVENTO: Iniciando download -> dreamy nightmares ♫
+11/11/2026 - 10:45:56 EVENTO: Download concluído -> dreamy nightmares ♫
+11/11/2026 - 10:45:56 EVENTO: Iniciando download -> these days it's hard to find the words ♫
+11/11/2026 - 10:45:56 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:45:56 EVENTO: Download concluído -> these days it's hard to find the words ♫
+11/11/2026 - 10:45:56 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:46:00 EVENTO: Iniciando download -> Cloud Island
+11/11/2026 - 10:46:00 EVENTO: Download concluído -> Cloud Island
+11/11/2026 - 10:46:00 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:46:00 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:46:00 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:46:00 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:49:36 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 10:49:36 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 10:49:45 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:49:45 EVENTO: Iniciando download -> Moon
+11/11/2026 - 10:49:45 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:49:46 EVENTO: Download concluído -> Moon
+11/11/2026 - 10:49:46 EVENTO: Iniciando download -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+11/11/2026 - 10:49:46 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:49:46 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:49:46 EVENTO: Download concluído -> On A Starry Night : 𝘙𝘦𝘭𝘢𝘹𝘪𝘯𝘨 𝘗𝘪𝘢𝘯𝘰 / 𝘊𝘢𝘭𝘮𝘪𝘯𝘨 𝘔𝘶𝘴𝘪𝘤 / 𝘓𝘰𝘷𝘦𝘵
+11/11/2026 - 10:49:46 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:49:50 EVENTO: Iniciando download -> Azalea Town
+11/11/2026 - 10:49:50 EVENTO: Download concluído -> Azalea Town
+11/11/2026 - 10:49:50 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:49:50 EVENTO: Iniciando download -> dreamy nightmares ♫
+11/11/2026 - 10:49:50 EVENTO: Download concluído -> dreamy nightmares ♫
+11/11/2026 - 10:49:50 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:49:51 EVENTO: Iniciando download -> comfy vibes ♫
+11/11/2026 - 10:49:51 EVENTO: Download concluído -> comfy vibes ♫
+11/11/2026 - 10:49:51 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:26 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:26 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:26 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:26 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:26 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:26 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:26 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:26 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:26 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:39 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:39 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:39 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:39 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:39 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:39 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:40 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:40 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:40 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:44 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:44 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:44 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:44 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:44 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:51:44 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:44 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:51:44 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:51:44 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:52:10 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:52:10 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:52:10 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:52:11 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:52:11 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:52:11 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 10:52:11 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 10:52:11 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 10:52:11 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:33:06 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:33:06 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:33:06 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:33:06 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:33:06 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:33:06 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:33:06 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:33:06 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:33:06 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:34:10 EVENTO: Iniciando download -> Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings
+11/11/2026 - 14:34:10 EVENTO: Download concluído -> Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings
+11/11/2026 - 14:34:10 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:34:10 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:34:10 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:34:10 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:34:12 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:34:12 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:34:12 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:39:58 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:39:58 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:39:58 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:39:58 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:39:58 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:39:58 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:39:59 EVENTO: Iniciando download -> Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings
+11/11/2026 - 14:39:59 EVENTO: Download concluído -> Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings
+11/11/2026 - 14:39:59 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:40:28 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:40:28 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:40:28 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:40:28 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:40:28 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:40:28 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:40:29 EVENTO: Iniciando download -> Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings
+11/11/2026 - 14:40:29 EVENTO: Download concluído -> Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings
+11/11/2026 - 14:40:29 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:42:14 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:42:14 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:42:14 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:42:14 EVENTO: Iniciando download -> Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings
+11/11/2026 - 14:42:14 EVENTO: Download concluído -> Clair de Lune | Debussy | Calm Classical Piano for Quiet Evenings
+11/11/2026 - 14:42:14 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 14:42:15 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 14:42:15 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 14:42:15 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:05:23 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 15:05:23 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 15:05:40 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 15:05:48 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 15:05:48 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:06:23 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 15:06:23 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 15:06:33 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 15:06:34 EVENTO: Iniciando download -> Moon
+11/11/2026 - 15:06:35 EVENTO: Iniciando download -> comfy vibes ♫
+11/11/2026 - 15:06:44 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 15:06:44 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:06:46 EVENTO: Download concluído -> comfy vibes ♫
+11/11/2026 - 15:06:46 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:06:46 EVENTO: Download concluído -> Moon
+11/11/2026 - 15:06:46 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:06:50 EVENTO: Iniciando download -> Cloud Island
+11/11/2026 - 15:06:51 EVENTO: Iniciando download -> Dancing in the Moonlight (Lofi)
+11/11/2026 - 15:06:54 EVENTO: Iniciando download -> Azalea Town
+11/11/2026 - 15:07:04 EVENTO: Download concluído -> Cloud Island
+11/11/2026 - 15:07:04 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:07:05 EVENTO: Download concluído -> Dancing in the Moonlight (Lofi)
+11/11/2026 - 15:07:05 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:07:06 EVENTO: Download concluído -> Azalea Town
+11/11/2026 - 15:07:06 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:07:09 EVENTO: Iniciando download -> Dreamland
+11/11/2026 - 15:07:11 EVENTO: Iniciando download -> these days it's hard to find the words ♫
+11/11/2026 - 15:07:13 EVENTO: Iniciando download -> dreamy nightmares ♫
+11/11/2026 - 15:07:22 EVENTO: Download concluído -> Dreamland
+11/11/2026 - 15:07:22 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:07:24 EVENTO: Download concluído -> these days it's hard to find the words ♫
+11/11/2026 - 15:07:24 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:07:26 EVENTO: Download concluído -> dreamy nightmares ♫
+11/11/2026 - 15:07:26 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:07:28 EVENTO: Iniciando download -> Tokyo Music Walker - Sunset Drive
+11/11/2026 - 15:07:38 EVENTO: Download concluído -> Tokyo Music Walker - Sunset Drive
+11/11/2026 - 15:07:38 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:07:49 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 15:07:49 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 15:08:17 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 15:08:18 EVENTO: Iniciando download -> comfy vibes ♫
+11/11/2026 - 15:08:18 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 15:08:25 EVENTO: Iniciando download -> dreamy nightmares ♫
+11/11/2026 - 15:08:30 EVENTO: Download concluído -> comfy vibes ♫
+11/11/2026 - 15:08:30 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:08:32 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 15:08:32 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:08:36 EVENTO: Download concluído -> dreamy nightmares ♫
+11/11/2026 - 15:08:36 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:08:36 EVENTO: Iniciando download -> dreamy night ~ piano
+11/11/2026 - 15:08:37 EVENTO: Iniciando download -> Moon
+11/11/2026 - 15:08:43 EVENTO: Iniciando download -> Love Forever
+11/11/2026 - 15:08:46 EVENTO: Download concluído -> Moon
+11/11/2026 - 15:08:46 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:08:52 EVENTO: Iniciando download -> Like a Dream
+11/11/2026 - 15:08:53 EVENTO: Download concluído -> Love Forever
+11/11/2026 - 15:08:53 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:08:54 EVENTO: Download concluído -> dreamy night ~ piano
+11/11/2026 - 15:08:54 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:08:59 EVENTO: Iniciando download -> Lomtre - Lemongrass
+11/11/2026 - 15:09:00 EVENTO: Iniciando download -> 𝐭𝐫𝐱𝐱𝐬𝐡𝐞𝐝 - Warped [w/Mvdb]
+11/11/2026 - 15:09:07 EVENTO: Download concluído -> 𝐭𝐫𝐱𝐱𝐬𝐡𝐞𝐝 - Warped [w/Mvdb]
+11/11/2026 - 15:09:07 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:09:09 EVENTO: Download concluído -> Lomtre - Lemongrass
+11/11/2026 - 15:09:09 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:09:11 EVENTO: Download concluído -> Like a Dream
+11/11/2026 - 15:09:11 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:09:16 EVENTO: Iniciando download -> A World at Peace
+11/11/2026 - 15:09:22 EVENTO: Download concluído -> A World at Peace
+11/11/2026 - 15:09:22 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:09:48 EVENTO: Iniciando download -> comfy vibes ♫
+11/11/2026 - 15:09:48 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 15:09:49 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 15:09:56 EVENTO: Iniciando download -> of frogs & lilypads (solo piano/study music) | seycara
+11/11/2026 - 15:09:59 EVENTO: Download concluído -> comfy vibes ♫
+11/11/2026 - 15:09:59 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:03 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 15:10:03 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:05 EVENTO: Iniciando download -> dreamy nightmares ♫
+11/11/2026 - 15:10:08 EVENTO: Iniciando download -> Kainbeats - Under the Stars [Chill Lofi Hip Hop]
+11/11/2026 - 15:10:09 EVENTO: Download concluído -> of frogs & lilypads (solo piano/study music) | seycara
+11/11/2026 - 15:10:09 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:13 EVENTO: Iniciando download -> Kainbeats - moths to a flame (Sleepy Lofi Music)
+11/11/2026 - 15:10:15 EVENTO: Download concluído -> dreamy nightmares ♫
+11/11/2026 - 15:10:15 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:21 EVENTO: Iniciando download -> Kainbeats - eucalyptus (Sleepy Lofi Music)
+11/11/2026 - 15:10:23 EVENTO: Download concluído -> Kainbeats - Under the Stars [Chill Lofi Hip Hop]
+11/11/2026 - 15:10:23 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:29 EVENTO: Iniciando download -> Inochi No Namae (Spirited Away but it's lofi)
+11/11/2026 - 15:10:31 EVENTO: Download concluído -> Kainbeats - moths to a flame (Sleepy Lofi Music)
+11/11/2026 - 15:10:31 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:36 EVENTO: Download concluído -> Kainbeats - eucalyptus (Sleepy Lofi Music)
+11/11/2026 - 15:10:36 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:36 EVENTO: Iniciando download -> 'never' (Audio) [goodbye - EP]
+11/11/2026 - 15:10:42 EVENTO: Iniciando download -> Dreaming
+11/11/2026 - 15:10:45 EVENTO: Download concluído -> Inochi No Namae (Spirited Away but it's lofi)
+11/11/2026 - 15:10:45 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:49 EVENTO: Download concluído -> 'never' (Audio) [goodbye - EP]
+11/11/2026 - 15:10:49 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 15:10:54 EVENTO: Download concluído -> Dreaming
+11/11/2026 - 15:10:54 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:00:04 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:00:12 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:00:15 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:00:15 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:00:16 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:00:16 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:00:16 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:00:16 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:01:04 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:01:04 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:01:04 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:01:04 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:01:04 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:01:04 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:01:04 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:01:04 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:01:17 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+11/11/2026 - 16:01:17 EVENTO: Arquivo 'core\fila.csv' removido.
+11/11/2026 - 16:01:24 EVENTO: Iniciando download -> QUEM MAIS PRESTA ALÉM DO SENHOR? | Dr. Enéas
+11/11/2026 - 16:01:25 EVENTO: Iniciando download -> QUEM MAIS PRESTA ALÉM DO SENHOR? | Dr. Enéas
+11/11/2026 - 16:01:27 EVENTO: Iniciando download -> QUEM MAIS PRESTA ALÉM DO SENHOR? | Dr. Enéas
+11/11/2026 - 16:01:35 EVENTO: Iniciando download -> QUEM MAIS PRESTA ALÉM DO SENHOR? | Dr. Enéas
+11/11/2026 - 16:01:35 EVENTO: Iniciando download -> QUEM MAIS PRESTA ALÉM DO SENHOR? | Dr. Enéas
+11/11/2026 - 16:01:40 EVENTO: Iniciando download -> QUEM MAIS PRESTA ALÉM DO SENHOR? | Dr. Enéas
+11/11/2026 - 16:01:54 EVENTO: Iniciando download -> QUEM MAIS PRESTA ALÉM DO SENHOR? | Dr. Enéas
+11/11/2026 - 16:01:54 EVENTO: Iniciando download -> QUEM MAIS PRESTA ALÉM DO SENHOR? | Dr. Enéas
+11/11/2026 - 16:06:32 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:06:33 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:07:31 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:07:31 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:07:36 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+11/11/2026 - 16:07:37 EVENTO: Arquivo 'core\fila.csv' removido.
+11/11/2026 - 16:07:41 EVENTO: Iniciando download -> FINNEAS - Break My Heart Again (Official Video)
+11/11/2026 - 16:07:42 EVENTO: Iniciando download -> a stormy night ♫
+11/11/2026 - 16:07:42 EVENTO: Iniciando download -> FINNEAS - I Lost A Friend (Official Video)
+11/11/2026 - 16:07:53 EVENTO: Download concluído -> FINNEAS - Break My Heart Again (Official Video)
+11/11/2026 - 16:07:53 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:07:53 EVENTO: Download concluído -> a stormy night ♫
+11/11/2026 - 16:07:53 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:07:55 EVENTO: Download concluído -> FINNEAS - I Lost A Friend (Official Video)
+11/11/2026 - 16:07:55 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:08:00 EVENTO: Iniciando download -> Adele - Easy On Me (Official Lyric Video)
+11/11/2026 - 16:08:01 EVENTO: Iniciando download -> Calum Scott - You Are The Reason (Official Video)
+11/11/2026 - 16:08:02 EVENTO: Iniciando download -> Shawn Mendes - It'll Be Okay
+11/11/2026 - 16:08:12 EVENTO: Download concluído -> Adele - Easy On Me (Official Lyric Video)
+11/11/2026 - 16:08:12 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:08:12 EVENTO: Download concluído -> Calum Scott - You Are The Reason (Official Video)
+11/11/2026 - 16:08:12 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:08:14 EVENTO: Download concluído -> Shawn Mendes - It'll Be Okay
+11/11/2026 - 16:08:14 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:08:18 EVENTO: Iniciando download -> New West - Those Eyes (Chapter 1)
+11/11/2026 - 16:08:19 EVENTO: Iniciando download -> FINNEAS - Only A Lifetime (Official Music Video)
+11/11/2026 - 16:08:20 EVENTO: Iniciando download -> Joji -  Glimpse of Us
+11/11/2026 - 16:08:32 EVENTO: Download concluído -> New West - Those Eyes (Chapter 1)
+11/11/2026 - 16:08:32 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:08:37 EVENTO: Download concluído -> FINNEAS - Only A Lifetime (Official Music Video)
+11/11/2026 - 16:08:37 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:08:38 EVENTO: Download concluído -> Joji -  Glimpse of Us
+11/11/2026 - 16:08:38 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:08:39 EVENTO: Iniciando download -> Imagine Dragons - Bad Liar
+11/11/2026 - 16:08:43 EVENTO: Iniciando download -> Lewis Capaldi - Before You Go (Official Video)
+11/11/2026 - 16:08:51 EVENTO: Download concluído -> Imagine Dragons - Bad Liar
+11/11/2026 - 16:08:51 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:08:56 EVENTO: Download concluído -> Lewis Capaldi - Before You Go (Official Video)
+11/11/2026 - 16:08:56 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:17:38 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:17:38 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:17:48 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+11/11/2026 - 16:17:48 EVENTO: Arquivo 'core\fila.csv' removido.
+11/11/2026 - 16:17:52 EVENTO: Iniciando download -> FINNEAS - Break My Heart Again (Official Video)
+11/11/2026 - 16:18:04 EVENTO: Download concluído -> FINNEAS - Break My Heart Again (Official Video)
+11/11/2026 - 16:18:04 EVENTO: Nova linha escrit em 'core\historico.csv'
+11/11/2026 - 16:18:31 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:18:31 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:18:37 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 16:18:37 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 16:18:40 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+11/11/2026 - 16:18:40 EVENTO: Arquivo 'core\fila.csv' removido.
+11/11/2026 - 16:18:48 EVENTO: Iniciando download -> FINNEAS - Break My Heart Again (Official Video)
+11/11/2026 - 18:39:56 EVENTO: Nova linha escrit em 'core\links_salvos.csv'
+11/11/2026 - 18:39:56 EVENTO: Nova linha escrit em 'core\fila.csv'
+11/11/2026 - 18:40:03 EVENTO: Arquivo 'core\links_salvos.csv' removido.
+11/11/2026 - 18:40:03 EVENTO: Arquivo 'core\fila.csv' removido.
+11/11/2026 - 18:40:11 EVENTO: Iniciando download -> FINNEAS - Break My Heart Again (Official Video)
