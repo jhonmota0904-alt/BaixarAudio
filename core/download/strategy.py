@@ -3,10 +3,19 @@ import yt_dlp
 from abc import ABC, abstractmethod
 from core.logs.log import Logger
 from core.download.arquivo import Arquivo
+from threading import Event
 
 
 class DownloadStrategy(ABC): 
-    def __init__(self, url: str, destino:str, qualidade:str, formato: str,  ao_progredir=None):
+    def __init__(
+        self,
+        url: str,
+        destino: str,
+        qualidade: str,
+        formato: str,
+        ao_progredir=None,
+        cancelamento: Event | None = None,
+    ):
         # Variávies para download
         self.url = url
         self.destino = destino
@@ -21,6 +30,15 @@ class DownloadStrategy(ABC):
 
         # Callabel
         self.ao_progredir = ao_progredir 
+        self.cancelamento = cancelamento
+
+    def _verificar_cancelamento(self) -> None:
+        if self.cancelamento is not None and self.cancelamento.is_set():
+            raise yt_dlp.utils.DownloadError("Download cancelado.")
+
+    def _hook_progresso(self, dicionario: dict) -> None:
+        self._verificar_cancelamento()
+        self._porcentagem(dicionario)
 
     @abstractmethod
     def _opcoes(self) -> dict:
@@ -59,13 +77,14 @@ class DownloadStrategy(ABC):
             self.ao_progredir({"tipo": "progresso", "fase": "Finalizando", "percentual": 100.0})
 
     def executar(self) -> None:
+        self._verificar_cancelamento()
         opcoes = self._opcoes()
-        if self.ao_progredir is not None:
-            opcoes["progress_hooks"] = [self._porcentagem]
+        opcoes["progress_hooks"] = [self._hook_progresso]
 
         try:
             with yt_dlp.YoutubeDL(opcoes) as ydl:
                 informacoes_url = ydl.extract_info(self.url, download=False)
+                self._verificar_cancelamento()
                 self.logging.exibir(f"Iniciando download -> {informacoes_url.get('title')}")
                 self.logging.evento(f"Iniciando download -> {informacoes_url.get('title')}")
                 ydl.download([self.url]) 
@@ -74,8 +93,9 @@ class DownloadStrategy(ABC):
                 self.arquivo.escrever([informacoes_url.get('title'), self.url], "historico.csv")
                
         except Exception as erro:
-            self.logging.exibir(f"Download interrompido -> {erro}")
-            self.logging.erro(f"Download interrompido -> {erro}")
+            if self.cancelamento is None or not self.cancelamento.is_set():
+                self.logging.exibir(f"Download interrompido -> {erro}")
+                self.logging.erro(f"Download interrompido -> {erro}")
             raise
 
 class DownloadAudio(DownloadStrategy):
@@ -106,7 +126,15 @@ class DownloadVideo(DownloadStrategy):
             "merge_output_format": self.formato
         }
 
-def criar_strategy(tipo: str, url: str, destino: str, qualidade: str, formato: str, ao_progredir=None) -> DownloadStrategy:
+def criar_strategy(
+    tipo: str,
+    url: str,
+    destino: str,
+    qualidade: str,
+    formato: str,
+    ao_progredir=None,
+    cancelamento: Event | None = None,
+) -> DownloadStrategy:
     mapa = {
         "audio": DownloadAudio,
         "video": DownloadVideo
@@ -115,4 +143,4 @@ def criar_strategy(tipo: str, url: str, destino: str, qualidade: str, formato: s
     if tipo not in mapa:
         raise ValueError(f"Tipo inválido: {tipo}")
 
-    return mapa[tipo](url, destino, qualidade, formato, ao_progredir)
+    return mapa[tipo](url, destino, qualidade, formato, ao_progredir, cancelamento)

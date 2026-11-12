@@ -3,25 +3,35 @@ import io
 import urllib.request
 from PIL import Image
 from core.logs.log import Logger
+from threading import Event
 
 class ExtratorInformacoes:
     def __init__(self):
        self.logging = Logger()
 
-    def extrair(self, url: str) -> dict | None:
+    def extrair(self, url: str, cancelamento: Event | None = None) -> dict | None:
+        opcoes = {
+            "quiet": True,
+            "no_warnings": True,
+            "skip_download": True,
+            "noplaylist": True,
+        }
+        if cancelamento is not None:
+            opcoes.update({"socket_timeout": 5, "retries": 1})
+
         try:
-            with yt_dlp.YoutubeDL({
-                "quiet": True,
-                "no_warnings": True,
-                "skip_download": True,
-                "noplaylist": True,
-            }) as ydl:
+            with yt_dlp.YoutubeDL(opcoes) as ydl:
                 info = ydl.extract_info(url, download=False)
         except Exception as erro:
+            if cancelamento is not None and cancelamento.is_set():
+                return None
             self.logging.exibir(f"falha ao extrair informações de {url} -> {erro}")
             self.logging.erro(f"falha ao extrair informações de {url} -> {erro}")
             return
-        
+
+        if cancelamento is not None and cancelamento.is_set():
+            return None
+
         return self._formatar(info)
 
     def _formatar(self, info: dict) -> dict:

@@ -31,6 +31,8 @@ class App(ctk.CTk):
         self.servico = ServicoDownload()
         self.logging = Logger()
 
+     
+
         # Informações iniciais
         self._info_atual = None
 
@@ -87,7 +89,7 @@ class App(ctk.CTk):
         self.servico.anexar(self)
 
         # Fechar programa
-        self._trabalhando = False
+        self._trabalhando = True
         self.protocol("WM_DELETE_WINDOW", self._fechar)
 
 
@@ -110,8 +112,8 @@ class App(ctk.CTk):
         if para_baixar:
             Toast(self, mensagem="Iniciando o Download", duracao_ms=5000, tipo="info")
         self.servico.baixar(para_baixar)
-        self.arquivo.limpar("links_salvos.csv")
-        self.arquivo.limpar("fila.csv")
+        #self.arquivo.limpar("links_salvos.csv")
+        #self.arquivo.limpar("fila.csv")
 
     def _verificar(self, info: dict) -> bool:
         vazio = [chave for chave, valor in info.items() if not valor]
@@ -232,6 +234,8 @@ class App(ctk.CTk):
             self._trabalhando)
         if resposta:
             print("Saindo") # <- Remover depois
+
+            self.servico.killer()
             # Lógica para parar o download e apagar arquivos desnecessários entra aqui
             # ..........
             # ..........
